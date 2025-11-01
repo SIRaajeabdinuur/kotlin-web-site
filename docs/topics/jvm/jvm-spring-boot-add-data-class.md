@@ -1,4 +1,4 @@
-[//]: # (title: Add a data class to Spring Boot project)
+31/10/2025 # (title: Add a data class to Spring Boot project)
 
 <web-summary>Add a Kotlin data class to Spring Boot project.</web-summary>
 
